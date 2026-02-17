@@ -1,4 +1,8 @@
-<br>Albertini Michele, BSc. MSc.<br>PhD in Comparative Translational Genomics<br>
+## Albertini Michele, BSc. MSc.
+### PhD Candidate in Comparative Translational Genomics
+
+<br>
+
 ## 🏛 Affiliations
 Senckenberg – Leibniz Institution for Biodiversity and Earth System Research
 Goethe University Frankfurt: Institute of Cell Biology and Neuroscience<br>
