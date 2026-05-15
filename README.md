@@ -1,5 +1,5 @@
 ## Albertini Michele, BSc. MSc.
-### PhD Candidate in Comparative Translational Genomics
+### PhD Candidate in Comparative Genomics
 
 <br>
 
@@ -8,7 +8,7 @@ Senckenberg – Leibniz Institution for Biodiversity and Earth System Research
 Goethe University Frankfurt: Institute of Cell Biology and Neuroscience<br>
 
 ## 🔬 Research Focus
-I investigate genomic and immunogenomic adaptations associated with extreme longevity, using bats as a comparative model system.<br><br>My work integrates:<br>- Comparative genomics<br>- Evolutionary biology<br>- Immunogenomics<br>- Translational aging research<br><br>The overarching goal is to identify molecular mechanisms that enable exceptional lifespan and disease resistance, and to evaluate their relevance for human health and aging.
+I investigate genomic adaptations associated with extreme longevity, using bats as a comparative model system.<br><br>My work integrates:<br>- Comparative genomics<br>- Evolutionary biology<br>- Translational aging research<br><br>The overarching goal is to identify molecular mechanisms that enable exceptional lifespan and disease resistance, and to evaluate their relevance for human health and aging.
 
 
 ## 🌐 Socials:
